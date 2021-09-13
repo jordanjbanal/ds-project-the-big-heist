@@ -1,5 +1,7 @@
 # Algorithms Project: The Big Heist
 
+## Solution proposed by Jordan Banal can be found in the file project.ipynb of this repository.
+
 ![bank robbers](./assets/bank-robbers.jpg)
 <p style="text-align:right;line-height:0;"><a href='https://www.freepik.com/vectors/background'>Bank robbers vector created by vectorpocket - www.freepik.com</a></p>
 
